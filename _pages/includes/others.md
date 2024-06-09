@@ -12,7 +12,7 @@
 
 
 # 💬 Invited Talks
-- *2023.11*, [Invited speaker]](https://mp.weixin.qq.com/s/VFsMBIUWuscAVa3WK3oRMA) of SMP 2023 to introduce the lines of works of BrainNet.
+- *2023.11*, [Invited speaker](https://mp.weixin.qq.com/s/VFsMBIUWuscAVa3WK3oRMA) of SMP 2023 to introduce the lines of works of BrainNet.
 - *2022.08*, [Oral presentation](https://dlnext.acm.org/doi/10.1145/3534678.3539178) at KDD 2022 to introduce the paper `BrainNet`.
 
 

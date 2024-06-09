@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junru Chen"
+  name             : "Junru Chen (陈俊儒)"
   avatar           : "images/myself.jpg"
   bio              : "Zhejiang University (ZJU)"
   location         : "Hangzhou, China"
@@ -65,15 +65,12 @@ include:
   - _pages
   - files
 exclude:
-  - docs
-  - google_scholar_crawler
   - "*.sublime-project"
   - "*.sublime-workspace"
   - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - .github
   - CHANGELOG
   - Capfile
   - Gemfile
@@ -91,6 +88,7 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - google_scholar_crawler
 keep_files:
   - .git
   - .svn

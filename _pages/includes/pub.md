@@ -18,13 +18,13 @@ facilitating transferability across different patients ([MBrain, KDD'23](https:/
 [PPi, NeurIPS'23](https://openreview.net/pdf?id=tEmFyqjaJh)).
 
 To construct a foundational model, we first attempt to pretrain a foundational model with 500M parameters based on a large volume of 
-intracranial brain signals ([Brant, NeurIPS'23](https://openreview.net/pdf?id=DDkl9vaJyE). Subsequently, we integrate EEG into the pretraining corpus, 
+intracranial brain signals ([Brant, NeurIPS'23](https://openreview.net/pdf?id=DDkl9vaJyE)). Subsequently, we integrate EEG into the pretraining corpus, 
 building a foundational model with 1B parameters, thereby generalizing to a broader range of downstream tasks such as sleep staging and 
 emotion recognition ([Brant-2, arXiv](https://arxiv.org/pdf/2402.10251)). Leveraging the strong generalization of Brant-2, we propose a 
 unified alignment framework (Brant-X, KDD'24) to rapidly adapt Brant-2 to downstream tasks involving rare physiological signals (e.g., EOG/ECG/EMG).
 In our pursuit to construct a universal foundational model, we recognize the necessity for a comprehensive dataset encompassing a wide array of domains. 
 Given the scarcity of brain signal data, we explore a diffusion-based model for intracranial brain signals generation (NeuralDiff, under review). Furthermore, 
-we innovate to directly synthesize infinite sequences, thereby circumventing the dependence on actual data ([InfoBoost, arXiv](http://arxiv.org/abs/2402.00607))).
+we innovate to directly synthesize infinite sequences, thereby circumventing the dependence on actual data ([InfoBoost, arXiv](http://arxiv.org/abs/2402.00607)).
 
 In future work, we will continue to expand the generalization capability of the foundational model while exploring its interaction with humans.
 
@@ -105,6 +105,6 @@ blocked before being propogated to different downstream tasks.
 </div>
 </div>
 
-<div class="badge">AI Open</div> [Robustness of Deep Learning Models on Graphs: A Survey](https://galina0217.github.io/works/robust_survey.pdf)\\
+`AI Open` [Robustness of Deep Learning Models on Graphs: A Survey](https://galina0217.github.io/works/robust_survey.pdf)\\
 [Jiarong Xu](https://galina0217.github.io/), **Junru Chen**, Siqi You, Zhiqing Xiao, [Yang Yang](http://yangy.org/), [Jiangang Lu](https://person.zju.edu.cn/en/lujg)
  
