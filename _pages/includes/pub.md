@@ -33,7 +33,7 @@ In future work, we will continue to expand the generalization capability of the 
 <div class='paper-box-text' markdown="1">
 
 [Brant-2: Foundation Model for Brain Signals](https://arxiv.org/pdf/2402.10251) \\
-Zhizhang Yuan, [Daoze Zhang](https://daozezhang.github.io/), [Gefei Gu](https://frankgu3528.github.io/), **Junru Chen**, [Yang Yang](http://yangy.org/)\\
+Zhizhang Yuan, [Daoze Zhang](https://daozezhang.github.io/), **Junru Chen**, [Gefei Gu](https://frankgu3528.github.io/), [Yang Yang](http://yangy.org/)\\
 [code ![](https://img.shields.io/github/stars/yzz673/Brant-2?style=social)](https://github.com/yzz673/Brant-2)\\
 Brant-2 is the first large-scale, off-the-shelf model that can be applied to the application scenrios of both SEEG and EEG.
 
@@ -105,6 +105,6 @@ blocked before being propogated to different downstream tasks.
 </div>
 </div>
 
-`AI Open` [Robustness of Deep Learning Models on Graphs: A Survey](https://galina0217.github.io/works/robust_survey.pdf)\\
+<div class="badge">AI Open</div> [Robustness of Deep Learning Models on Graphs: A Survey](https://galina0217.github.io/works/robust_survey.pdf)\\
 [Jiarong Xu](https://galina0217.github.io/), **Junru Chen**, Siqi You, Zhiqing Xiao, [Yang Yang](http://yangy.org/), [Jiangang Lu](https://person.zju.edu.cn/en/lujg)
  
