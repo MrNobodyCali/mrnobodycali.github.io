@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Junru Chen     (陈俊儒)"
+  name             : "Junru Chen \\ <br> (陈俊儒)"
   avatar           : "images/myself.jpg"
   bio              : "Zhejiang University (ZJU)"
   location         : "Hangzhou, China"
