@@ -7,7 +7,7 @@ research direction and roadmap from scratch. In my role as team leader, I have b
 among the group members. Simultaneously, I have provided assistance and guidance to the best of my ability in coding and writing. 
 Below is the roadmap of our group's research.
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/Roadmap.jpg' alt="sym" width="100%"></div></div>
+<p align="center"> <img src='../../images/Roadmap.jpg' alt="sym" width="60%"></p>
 
 We aim to establish a universal model for brain signals, enhancing performance in various downstream tasks within the healthcare domain 
 while empowering a quantitative understanding of brain activity in neuroscience for human.
@@ -39,8 +39,7 @@ between models and humans.
 <div class='paper-box-text' markdown="1">
 
 [Con4m: Context-aware Consistency Learning Framework for Segmented Time Series Classification](https://arxiv.org/pdf/2408.00041) \\
-**Junru Chen**, [Tianyu Cao](http://tiyacao.com/), Jing Xu, [Jiahe Li](https://erikaqvq.github.io/), 
-[Zhilong Chen](https://www.cnblogs.com/Apocrypha), Tao Xiao, [Yang Yang](http://yangy.org/)\\
+**Junru Chen**, [Tianyu Cao](http://tiyacao.com/), Jing Xu, [Jiahe Li](https://erikaqvq.github.io/), Zhilong Chen, Tao Xiao, [Yang Yang](http://yangy.org/)\\
 Con4m is a consistency learning framework, which effectively utilizes contextual information more conducive to 
 discriminating consecutive segments in segmented TSC tasks, while harmonizing inconsistent boundary labels for training.
 
@@ -51,7 +50,7 @@ discriminating consecutive segments in segmented TSC tasks, while harmonizing in
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">KDD 2024</div><img src='images/BrantX.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Brant-X:AUnifiedPhysiological Signal Alignment Framework](https://dl.acm.org/doi/pdf/10.1145/3637528.3671953) \\
+[Brant-X: A Unified Physiological Signal Alignment Framework](https://dl.acm.org/doi/pdf/10.1145/3637528.3671953) \\
 [Daoze Zhang](https://daozezhang.github.io/), Zhizhang Yuan, **Junru Chen**, Kerui Chen, [Yang Yang](http://yangy.org/)\\
 [code ![](https://img.shields.io/github/stars/zjunet/Brant-X?style=social)](https://github.com/zjunet/Brant-X/)\\
 Brant-X is a unified physiological signal alignment framework to learn representations from various physiological data.
