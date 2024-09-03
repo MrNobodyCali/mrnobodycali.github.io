@@ -7,7 +7,7 @@ research direction and roadmap from scratch. In my role as team leader, I have b
 among the group members. Simultaneously, I have provided assistance and guidance to the best of my ability in coding and writing. 
 Below is the roadmap of our group's research.
 
-<p align="center"> <img src='../../images/Roadmap.jpg' alt="sym" width="70%"></p>
+<p align="center"> <img src='../../images/Roadmap.jpg' alt="sym" width="75%"></p>
 
 We aim to establish a universal model for brain signals, enhancing performance in various downstream tasks within the healthcare domain 
 while empowering a quantitative understanding of brain activity in neuroscience for human.
