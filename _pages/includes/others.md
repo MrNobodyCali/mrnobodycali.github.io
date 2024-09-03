@@ -6,7 +6,7 @@
 
 
 # 📖 Educations
-- *2020.08 - 2025.07 (expected)*, Ph.D. in Computer Science and Technology, [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, Zhejiang.
+- *2020.08 - 2025.07*, Ph.D. in Computer Science and Technology, [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, Zhejiang.
 - *2016.08 - 2020.07*, Dual Bachelors in Statistics and Computer Science and Technology, [Zhejiang University](http://www.zju.edu.cn/), Hangzhou, Zhejiang.
 - *2013.08 - 2016.07*, [Panzhihua No.3 Senior High School](https://www.pzhsz.net/), Panzhihua, Sichuan.
 
@@ -17,6 +17,7 @@
 
 
 # 💻 Academic Service
+- *2024*, Program committee member of NeurIPS
 - *2021--2023*, Program committee member of KDD
 - *2023*, Program committee member of TNNLS
 - *2022--2023*, Program committee member of TBD
