@@ -9,3 +9,4 @@ at the top international AI conferences such as KDD, NeurIPS, AAAI.
 Here is my CV (<a target="_blank"  href="_pages/includes/Junru_CV_202409.pdf">English version</a>/
 <a target="_blank"  href="_pages/includes/俊儒_中文简历_202409.pdf">Chinese version</a>).
 If you are seeking any form of academic cooperation, please feel free to touch me.
+**I am currently seeking job opportunities in the industry. If there are suitable positions available, please feel free to reach out. Thank you!**
